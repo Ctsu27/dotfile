@@ -3,17 +3,26 @@
   "editor.detectIndentation": false,
   "editor.formatOnPaste": true,
   "files.insertFinalNewline": true,
+  "editor.rulers": [
+    79
+  ],
   "editor.emptySelectionClipboard": false,
   "workbench.editor.enablePreview": false,
   "editor.parameterHints.enabled": true,
   "files.exclude": {
-    "objs": true,
+	"**/.DS_Store": true,
+    "**/objs": true,
     "**/*.o": true,
     "**/*.a": true,
     "**/*.so": true,
     "**/.*.swp": true,
 },
 "files.associations": {
-	"gc.h": "c"
-}
+	"gc.h": "c",
+	"libft.h": "c",
+	"minishell.h": "c",
+	"memoryft.h": "c",
+	"chai.h": "c",
+	"util.h": "c"
+},
 }
