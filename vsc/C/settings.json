@@ -4,7 +4,7 @@
   "editor.formatOnPaste": true,
   "files.insertFinalNewline": true,
   "editor.rulers": [
-    79
+    80
   ],
   "editor.emptySelectionClipboard": false,
   "workbench.editor.enablePreview": false,
